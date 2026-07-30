@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://yourdomain.com/images/banner1.png",
+    "click_url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "is_active": true,
+    "text": "Try our new AI Expense Tracker!"
+  },
+  {
+    "id": 2,
+    "image_url": "https://yourdomain.com/images/banner2.png",
+    "click_url": "https://yourwebsite.com/premium",
+    "is_active": false,
+    "text": "Upgrade to Premium and unlock all features."
+  },
+  {
+    "id": 3,
+    "image_url": "https://yourdomain.com/images/banner3.png",
+    "click_url": "https://yourwebsite.com/offers",
+    "is_active": true,
+    "text": "Special offer! Save more with MoneyMate."
+  }
+]
