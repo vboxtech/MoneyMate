@@ -2,14 +2,14 @@
   {
     "id": 1,
     "image_url": "https://www.creativehatti.com/wp-content/uploads/2022/08/Flat-template-banner-with-happy-independence-day-49-small.jpg",
-    "click_url": "",
+    "click_url": "https://play.google.com/store/apps/details?id=com.vbox.flow_free",
     "is_active": false,
-    "text": "Try our new AI Expense Tracker!"
+    "text": "Dot Connect!"
   },
   {
     "id": 2,
     "image_url": "https://yourdomain.com/images/banner2.png",
-    "click_url": "https://yourwebsite.com/premium",
+    "click_url": "https://play.google.com/store/apps/details?id=com.vbox.moneymate",
     "is_active": false,
     "text": "Upgrade to Premium and unlock all features."
   },
