@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "image_url": "https://www.creativehatti.com/wp-content/uploads/2022/08/Flat-template-banner-with-happy-independence-day-49-small.jpg",
+    "image_url": "https://as2.ftcdn.net/jpg/05/34/92/27/1000_F_534922762_5NQnzg733xslyMHyfjyZLakRUe39D9jy.jpg",
     "click_url": "https://play.google.com/store/apps/details?id=com.vbox.flow_free",
-    "is_active": false,
+    "is_active": true,
     "text": "Dot Connect!"
   },
   {
     "id": 2,
-    "image_url": "https://yourdomain.com/images/banner2.png",
+    "image_url": "https://as2.ftcdn.net/jpg/05/34/92/27/1000_F_534922762_5NQnzg733xslyMHyfjyZLakRUe39D9jy.jpg",
     "click_url": "https://play.google.com/store/apps/details?id=com.vbox.moneymate",
-    "is_active": false,
-    "text": "Upgrade to Premium and unlock all features."
+    "is_active": true,
+    "text": "Money Mate"
   },
   {
     "id": 3,
