@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvFNZS7JOTGI1jmwCpg5hupGAM6qmOKhK16GlOlHy9Pngf_TflNqGoUE&s=10",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7gVVzsEPLQiWx0lcrUkEWL-v85_zl_YYwzDHfNcLAP0cNGLx6u_jNBlu&s=10",
     "click_url": "https://play.google.com/store/apps/details?id=com.vbox.flow_free",
     "is_active": true,
     "text": "Dot Connect!"
   },
   {
     "id": 2,
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvFNZS7JOTGI1jmwCpg5hupGAM6qmOKhK16GlOlHy9Pngf_TflNqGoUE&s=10",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7gVVzsEPLQiWx0lcrUkEWL-v85_zl_YYwzDHfNcLAP0cNGLx6u_jNBlu&s=10",
     "click_url": "https://play.google.com/store/apps/details?id=com.vbox.moneymate",
     "is_active": true,
     "text": "Money Mate"
